@@ -1,3 +1,7 @@
+-
+Forked version for DIY esp32-dev + ad8232 ECG chip
+-
+
 ProtoCentral Hearty Patch Single-lead ECG monitor
 =======================================================
 
